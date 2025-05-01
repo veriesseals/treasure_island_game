@@ -1,4 +1,3 @@
-from token import LEFTSHIFT
 # Print the name of the game
 print("Welcome to Treasure Island.")
 
